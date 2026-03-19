@@ -1,0 +1,34 @@
+subcategoria,descricao_subcategoria,categoria,descricao_categoria,capitulo,descricao_capitulo,causa_violencia,causa_overdose,cid_datasus
+F328,Outros episódios depressivos,F32,Episódios depressivos,V,Transtornos mentais e comportamentais,0,0,0
+F322,Episódio depressivo grave sem sintomas psicóticos,F32,Episódios depressivos,V,Transtornos mentais e comportamentais,0,0,0
+F320,Episódio depressivo leve,F32,Episódios depressivos,V,Transtornos mentais e comportamentais,0,0,0
+F323,Episódio depressivo grave com sintomas psicóticos,F32,Episódios depressivos,V,Transtornos mentais e comportamentais,0,0,0
+F321,Episódio depressivo moderado,F32,Episódios depressivos,V,Transtornos mentais e comportamentais,0,0,0
+F329,Episódio depressivo não especificado,F32,Episódios depressivos,V,Transtornos mentais e comportamentais,0,0,0
+F338,Outros transtornos depressivos recorrentes,F33,Transtorno depressivo recorrente,V,Transtornos mentais e comportamentais,0,0,0
+F332,"Transtorno depressivo recorrente, episódio atual grave sem sintomas psicóticos",F33,Transtorno depressivo recorrente,V,Transtornos mentais e comportamentais,0,0,0
+F339,Transtorno depressivo recorrente sem especificação,F33,Transtorno depressivo recorrente,V,Transtornos mentais e comportamentais,0,0,0
+F334,"Transtorno depressivo recorrente, atualmente em remissão",F33,Transtorno depressivo recorrente,V,Transtornos mentais e comportamentais,0,0,0
+F330,"Transtorno depressivo recorrente, episódio atual leve",F33,Transtorno depressivo recorrente,V,Transtornos mentais e comportamentais,0,0,0
+F331,"Transtorno depressivo recorrente, episódio atual moderado",F33,Transtorno depressivo recorrente,V,Transtornos mentais e comportamentais,0,0,0
+F333,"Transtorno depressivo recorrente, episódio atual grave com sintomas psicóticos",F33,Transtorno depressivo recorrente,V,Transtornos mentais e comportamentais,0,0,0
+F412,Transtorno misto ansioso e depressivo,F41,Outros transtornos ansiosos,V,Transtornos mentais e comportamentais,0,0,0
+F419,Transtorno ansioso não especificado,F41,Outros transtornos ansiosos,V,Transtornos mentais e comportamentais,0,0,0
+F418,Outros transtornos ansiosos especificados,F41,Outros transtornos ansiosos,V,Transtornos mentais e comportamentais,0,0,0
+F411,Ansiedade generalizada,F41,Outros transtornos ansiosos,V,Transtornos mentais e comportamentais,0,0,0
+F413,Outros transtornos ansiosos mistos,F41,Outros transtornos ansiosos,V,Transtornos mentais e comportamentais,0,0,0
+F410,Transtorno de pânico [ansiedade paroxística episódica],F41,Outros transtornos ansiosos,V,Transtornos mentais e comportamentais,0,0,0
+F438,"Outras reações ao ""stress"" grave",F43,"Reações ao ""stress"" grave e transtornos de adaptação",V,Transtornos mentais e comportamentais,0,0,0
+F439,"Reação não especificada a um ""stress"" grave",F43,"Reações ao ""stress"" grave e transtornos de adaptação",V,Transtornos mentais e comportamentais,0,0,0
+F431,"Estado de ""stress"" pós-traumático",F43,"Reações ao ""stress"" grave e transtornos de adaptação",V,Transtornos mentais e comportamentais,0,0,0
+F430,"Reação aguda ao ""stress""",F43,"Reações ao ""stress"" grave e transtornos de adaptação",V,Transtornos mentais e comportamentais,0,0,0
+F432,Transtornos de adaptação,F43,"Reações ao ""stress"" grave e transtornos de adaptação",V,Transtornos mentais e comportamentais,0,0,0
+Z738,Outros problemas relacionados com a organização do seu modo de vida,Z73,Problemas relacionados com a organização de seu modo de vida,XXI,Fatores que influenciam o estado de saúde e o contato com os serviços de saúde,0,0,0
+Z734,Habilidades sociais inadequadas não classificadas em outra parte,Z73,Problemas relacionados com a organização de seu modo de vida,XXI,Fatores que influenciam o estado de saúde e o contato com os serviços de saúde,0,0,0
+Z736,Limites impostos às atividades por invalidez,Z73,Problemas relacionados com a organização de seu modo de vida,XXI,Fatores que influenciam o estado de saúde e o contato com os serviços de saúde,0,0,0
+Z732,Falta de repouso e de lazer,Z73,Problemas relacionados com a organização de seu modo de vida,XXI,Fatores que influenciam o estado de saúde e o contato com os serviços de saúde,0,0,0
+Z739,Problema relacionado com a organização de seu modo de vida não especificado,Z73,Problemas relacionados com a organização de seu modo de vida,XXI,Fatores que influenciam o estado de saúde e o contato com os serviços de saúde,0,0,0
+Z730,Esgotamento,Z73,Problemas relacionados com a organização de seu modo de vida,XXI,Fatores que influenciam o estado de saúde e o contato com os serviços de saúde,0,0,0
+Z731,Acentuação de traços de personalidade,Z73,Problemas relacionados com a organização de seu modo de vida,XXI,Fatores que influenciam o estado de saúde e o contato com os serviços de saúde,0,0,0
+Z733,"Stress"" não classificado em outra parte",Z73,Problemas relacionados com a organização de seu modo de vida,XXI,Fatores que influenciam o estado de saúde e o contato com os serviços de saúde,0,0,0
+Z735,"Conflito sobre o papel social, não classificado em outra parte",Z73,Problemas relacionados com a organização de seu modo de vida,XXI,Fatores que influenciam o estado de saúde e o contato com os serviços de saúde,0,0,0
